@@ -1,0 +1,10 @@
+2022/06/16 22:36:10 error: open /path/to/config.toml: The system cannot find the path specified.
+ can't open the configuration file
+main.readConfig
+	C:/Users/Zohaib Hassan Soomro/OneDrive/Desktop/Desktop material/Learning go-language/Ex_Files_Go_EssT/Exercise Files/Ch05/05_01/errors.go:18
+main.main
+	C:/Users/Zohaib Hassan Soomro/OneDrive/Desktop/Desktop material/Learning go-language/Ex_Files_Go_EssT/Exercise Files/Ch05/05_01/errors.go:39
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+runtime.goexit
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1571
